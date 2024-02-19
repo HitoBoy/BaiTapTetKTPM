@@ -2,12 +2,15 @@
 **Bài tập Tết môn KTPM**
 
 ***Họ và tên: Lê Minh Hoàng***
+
 ***MSSV: 21020122***
+
 ***Lớp theo học: 2324II_INT3105_1***
 
 **Tìm hiểu:**
 
 1. Docker là gì?
+
   - Docker là nền tảng phần mềm cho phép bạn dựng, kiểm thử và triển khai ứng dụng. Docker cho phép bạn tạo các môi trường độc lập và tách biệt để khởi chạy và phát triển ứng dụng một cách nhanh chóng. Bằng Docker, bạn có thể quản lý môi trường của bạn cũng như cách bạn quản lý các ứng dụng. Bằng cách tận dụng các phương pháp của Docker cho việc vận chuyển, kiểm thử và triển khai code, bạn có thể giảm đáng kể thời gian trễ giữa việc viết mã và chạy nó.
 
 2. Docker-composer là gì?
