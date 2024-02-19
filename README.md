@@ -89,8 +89,8 @@ https://github.com/HitoBoy/BaiTapTetKTPM/assets/100589413/4f808b8d-44a6-4ec3-a5a
   - Tại terminal em dùng lệnh ip addr để lấy luôn địa chỉ ip address cho máy ảo
   - Tạo 1 tệp rỗng rồi tạo Dockerfile với file index.html cho web
   - Ở Dockerfile em đã sử dụng 2 lệnh là FROM và COPY
-  - Lệnh FROM ở đây dùng để... vì khi tạo image mới thì image nào cũng cần xuất phát từ một image khác
-  - Lệnh COPY ở đây dùng để...
+  - Lệnh FROM ở đây dùng để tạo ra build mới từ 1 base image vì khi tạo image mới thì image nào cũng cần xuất phát từ một image khác
+  - Lệnh COPY ở đây dùng để copy file html vào nơi mà nginx xuất dữ liệu ra.
   - Còn file index.html chứa hello world đơn giản
   
   - Để khởi chạy docker image em đã sử dụng lệnh docker build để xây dựng image rồi dùng lệnh run để khởi chạy.
